@@ -5,8 +5,8 @@ Hi! 这里是 `High Ping Network` 的官方网站
 `High Ping Network` 的 ASN 正在申请中
 
 我们是由 11 个人组成的小团队：(按照首字母顺序排列)
-- [@GenshinMinecraft](https://t.me/C1oudF1are)
 
+- [@GenshinMinecraft](https://t.me/C1oudF1are)
 - [@HighPingCat](https://t.me/HighPingCat)
 - [@imkcp](https://t.me/cn_imkcp)
 - [@Lemonawa](https://t.me/Lemonawa)
