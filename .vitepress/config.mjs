@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  basr:"/highp.ing/",
   title: "HP Net's site",
   titleTemplate: 'Custom Suffix',
   description: "HP Net's site",
