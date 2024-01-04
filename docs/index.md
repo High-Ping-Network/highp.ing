@@ -18,11 +18,14 @@ hero:
       link: https://blog.highp.ing/
 
 features:
-  - title: 我们的官方网站
+  - icon: 🕸️
+    title: 我们的官方网站
     details: https://highp.ing
-  - title: 我们的官方博客
+  - icon: ♾️
+    title: 我们的官方博客
     details: https://blog.highp.ing
-  - title: 我们的官方邮箱
+  - icon: 📧
+    title: 我们的官方邮箱
     details: noc@highp.ing
 ---
 
