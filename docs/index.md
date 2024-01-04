@@ -5,6 +5,9 @@ layout: home
 hero:
   name: "High Ping Network"
   text: "This is High Ping Network Official Website"
+  image:
+    src: /server.png
+    alt: Server
   tagline: Glad To Meet You, The Internet
   actions:
     - theme: brand
