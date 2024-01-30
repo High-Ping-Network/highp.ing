@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: 我们的博客
       link: https://blog.highp.ing/
+    - theme: brand
+      text: 我们的 Telegram 频道
+      link: https://t.me/HighPingNetwork
 
 features:
   - icon: 🕸️
