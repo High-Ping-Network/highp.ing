@@ -24,7 +24,12 @@ Hi! 这里是 `High Ping Network` 的官方网站
 
 我们的举报邮箱: <abuse@highp.ing>
 
+## 特别鸣谢
+
+[ZHNet](https://zhnet.co.uk/) -- 我们的 LIR
+
 ## High Ping Network 这一名称的由来
+
 `High Ping` 的意思是 **延迟高**，所以 `High Ping Network` 的意思就是 **延迟很高的网络**
 
 这一名字具有***自嘲***与***搞笑***的特点，并在**我们的投票中**胜出
@@ -34,6 +39,7 @@ Hi! 这里是 `High Ping Network` 的官方网站
 由于不希望让 ASN Name 变得那么长，所以我们将 `High Ping Network` 中的 `Network` 删去了
 
 ## Glad To Meet You, The Internet!
+
 **我家跨上了“信息高速路”**
 
 > Q: 为什么要整一个 ASN ？\
