@@ -26,7 +26,8 @@ Hi! 这里是 `High Ping Network` 的官方网站
 
 ## 特别鸣谢
 
-[ZHNet](https://zhnet.co.uk/) -- 我们的 LIR
+- [zhnet](https://zhnet.co.uk/) -- 我们的 LIR
+- [Rinne](https://t.me/gugumnt) -- zhnet 的一员，为我们提供了很多的帮助与服务
 
 ## High Ping Network 这一名称的由来
 
