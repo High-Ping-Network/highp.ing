@@ -4,6 +4,8 @@ Hi! 这里是 `High Ping Network` 的官方网站
 
 `High Ping Network` 的 ASN 为 [AS215575](https://bgp.he.net/AS215575)
 
+## 基本成员
+
 我们是由 11 个人组成的小团队：(按照首字母顺序排列)
 
 - [@GenshinMinecraft](https://t.me/C1oudF1are)
@@ -17,6 +19,8 @@ Hi! 这里是 `High Ping Network` 的官方网站
 - [@sam](https://t.me/samandjyf1)
 - [@Toothless](https://t.me/dann2333)
 - [@UniOreoX](https://t.me/UniOreoX)
+
+## 我们的信息
 
 - 关于我们:  <https://highp.ing/aboutus.html> 
 - 我们的官网: <https://highp.ing>
