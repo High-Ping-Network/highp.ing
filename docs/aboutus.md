@@ -18,11 +18,13 @@ Hi! 这里是 `High Ping Network` 的官方网站
 - [@Toothless](https://t.me/dann2333)
 - [@UniOreoX](https://t.me/UniOreoX)
 
-我们的官网: <https://highp.ing>
-
-我们的博客: <https://blog.highp.ing>
-
-我们的举报邮箱: <abuse@highp.ing>
+- 关于我们:  <https://highp.ing/aboutus.html> 
+- 我们的官网: <https://highp.ing>
+- 我们的博客: <https://blog.highp.ing>
+- 我们的官方邮箱: <noc@highp.ing>
+- 我们的投诉邮箱: <abuse@highp.ing>
+- 我们的 Telegram 频道: [@HighPingNetwork](https://t.me/HighPingNetwork)
+- 我们的 Telegram 群组: [@HighPingChat](https://t.me/highpingchat)
 
 ## 特别鸣谢
 
