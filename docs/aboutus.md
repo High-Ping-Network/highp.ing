@@ -42,7 +42,7 @@ Hi! 这里是 `High Ping Network` 的官方网站
 
 我们的分配 (将一个 /44 平均分成 16 等份，每份为 /48，剩余5个为备用段):
 - 2a0f:7803:fb20::/48 -- [@rtx ςαΤ](https://t.me/rtx5000ada)
-- 2a0f:7803:fb21::/48 --  
+- 2a0f:7803:fb21::/48 --  [@sam](https://t.me/samandjyf1)
 - 2a0f:7803:fb22::/48 -- [@UniOreoX](https://t.me/UniOreoX)
 - 2a0f:7803:fb23::/48 --  
 - 2a0f:7803:fb24::/48 -- [@GenshinMinecraft](https://t.me/C1oudF1are)
