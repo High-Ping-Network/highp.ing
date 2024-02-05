@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "High Ping Network"
-  text: "This is High Ping Network Official Website"
+  text: "AS215575"
   image:
     src: /server.png
     alt: Server

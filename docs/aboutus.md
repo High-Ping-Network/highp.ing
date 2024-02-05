@@ -2,7 +2,7 @@
 
 Hi! 这里是 `High Ping Network` 的官方网站
 
-`High Ping Network` 的 ASN 正在申请中
+`High Ping Network` 的 ASN 为 [AS215575](https://bgp.he.net/AS215575)
 
 我们是由 11 个人组成的小团队：(按照首字母顺序排列)
 
@@ -28,6 +28,35 @@ Hi! 这里是 `High Ping Network` 的官方网站
 
 - [zhnet](https://zhnet.co.uk/) -- 我们的 LIR
 - [Rinne](https://t.me/gugumnt) -- zhnet 的一员，为我们提供了很多的帮助与服务
+
+## 我们的 IP Ranges
+目前，我们只有 IPv6 ~~(说白了就是没钱买 IPv4~~
+
+我们的 IPv6 Ranges 为 `2a0f:7803:fb20::/44`
+
+- 起-始: `2a0f:7803:fb20:0000:0000:0000:0000:0000`-`2a0f:7803:fb2f:ffff:ffff:ffff:ffff:ffff`
+- CIDR: `2a0f:7803:fb20::/44`
+- 总计 IP 数量: `19,342,813,113,834,066,795,298,816`个可用 IPv6 地址
+
+用人话来说，就是约有 19 亿亿亿个 IPv6，用十辈子都用不完（
+
+我们的分配 (将一个 /44 平均分成 16 等份，每份为 /48，剩余5个为备用段):
+- 2a0f:7803:fb20::/48 -- [@rtx ςαΤ](https://t.me/rtx5000ada)
+- 2a0f:7803:fb21::/48 --  
+- 2a0f:7803:fb22::/48 -- [@UniOreoX](https://t.me/UniOreoX)
+- 2a0f:7803:fb23::/48 --  
+- 2a0f:7803:fb24::/48 -- [@GenshinMinecraft](https://t.me/C1oudF1are)
+- 2a0f:7803:fb25::/48 -- [@Lemonawa](https://t.me/Lemonawa)
+- 2a0f:7803:fb26::/48 --  
+- 2a0f:7803:fb27::/48 --  
+- 2a0f:7803:fb28::/48 --  
+- 2a0f:7803:fb29::/48 --  
+- 2a0f:7803:fb2a::/48 --  
+- 2a0f:7803:fb2b::/48 -- [@HighPingKat](https://t.me/HighPingKat)
+- 2a0f:7803:fb2c::/48 --  
+- 2a0f:7803:fb2d::/48 --  
+- 2a0f:7803:fb2e::/48 --  
+- 2a0f:7803:fb2f::/48 -- [@Mio](https://t.me/Akiyama_mio_hi)
 
 ## High Ping Network 这一名称的由来
 
