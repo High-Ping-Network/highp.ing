@@ -8,6 +8,7 @@ export default {
     logo: '/logo.png',
     nav: [
       { text: 'GitHub', link: 'https://github.com/High-Ping-Network/' },
+      { text: 'Telegram', link: 'https://t.me/HighPingNetwork' },
       ],
 //      {
 //        text: 'Blog',
