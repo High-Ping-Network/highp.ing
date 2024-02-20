@@ -39,7 +39,7 @@ Hi! 这里是 `High Ping Network` 的官方网站
 - [Cloudflare](https://cloudflare.com): 提供了 Cloudflare Pages 等服务支撑我们**官网**以及**博客**的搭建，同时 DNS、CDN 等服务都极度依赖于 Cloudflare
 - [虚妄猫](https://port.moonport.top/): 提供了*面向中国大陆*的博客托管**免费虚拟主机** <https://nomao.blog.highp.ing>
 - [Github](https://github.com): 提供了 Git 托管服务，为我们的编辑以及项目开发提供了**基础平台**
-- [Minato Shiraha🅴](https://t.me/minatoshiraha): 为我们设计了视觉形象
+- [Minato Shiraha🅴](https://t.me/minatoshiraha): 为我们设计了视觉形象，有关于我们的 Logo 欢迎参观[博客相关内容](https://blog.highp.ing/p/newlogo/)
 
 
 ## 我们的 IP Ranges
