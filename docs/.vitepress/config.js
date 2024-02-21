@@ -15,7 +15,7 @@ export default {
     ],
     footer: {
       message: 'Powered By VitePress',
-      copyright: 'Copyright © 2024 High Ping Ltd. All rights reserved.',
+      copyright: 'Copyright © 2024 HIGH PING LTD All rights reserved.',
     }
   }
 }
