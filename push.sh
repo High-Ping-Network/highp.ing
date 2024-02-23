@@ -1,4 +1,4 @@
-npm run docs:build
+yarn docs:build
 
 git add .
 git commit -m 'UPDATE'
