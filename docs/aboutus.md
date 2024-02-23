@@ -81,7 +81,7 @@ Hi! 这里是 `High Ping Network` 的官方网站
 
 我们是从 DN42 出来的，当然欢迎来 DN42 Peer
 
-欢迎参阅 [与我们 Peer](https://highp.ing/peer.html)
+欢迎参阅 [与我们 Peer](https://highp.ing/peers.html)
 
 如果您想要与我们在 DN42 中 Peer，可以通过上方的链接找到我们!
 
