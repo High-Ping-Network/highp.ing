@@ -7,7 +7,7 @@ export default {
   themeConfig: {
     logo: '/logo/HighPing icon.png',
     nav: [
-      { text: '与我们 Peer', link: 'https://highp.ing/peer.html' },
+      { text: '与我们 Peer', link: 'https://highp.ing/peers' },
       { text: 'GitHub', link: 'https://github.com/High-Ping-Network/' },
       { text: 'Telegram', link: 'https://t.me/HighPingNetwork' },
       ],
