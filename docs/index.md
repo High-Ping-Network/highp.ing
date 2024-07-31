@@ -6,7 +6,7 @@ hero:
   name: "High Ping Network"
   text: "AS215575"
   image:
-    src: 'https://logo-and-cat.highp.ing/'
+    src: 'https://pub-96d2c13ead034aa5a0618a081647ae2f.r2.dev/pic(2).png'
     alt: Server
   tagline: Glad To Meet You, The Internet
   actions:
