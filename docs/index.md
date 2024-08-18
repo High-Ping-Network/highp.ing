@@ -19,6 +19,9 @@ hero:
     - theme: brand
       text: 我们的 Telegram 频道
       link: https://t.me/HighPingNetwork
+    - theme: drive
+      text: 我们的云存储服务
+      link: https://drive.highp.ing
 
 features:
   - icon: 🕸️
